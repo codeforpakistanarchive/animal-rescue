@@ -90,4 +90,5 @@ Contributors - Thank you!
 * cybervirax
 * ultramundane
 * datawalke
-Don't see yourself Just edit the Readme!
+* Fahad Uddin
+
